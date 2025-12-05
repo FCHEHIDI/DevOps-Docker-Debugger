@@ -1,0 +1,20 @@
+# Fichier de configuration sensible
+.env
+
+# Logs
+*.log
+logs/
+
+# Données volumineuses
+data/
+backups/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
